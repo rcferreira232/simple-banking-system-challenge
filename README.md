@@ -24,7 +24,7 @@ Criar um sistema bancário simples com as seguintes funcionalidades:
 
 1. Clone este repositório: [https://github.com/rcferreira232/simple-banking-system-challenge](https://github.com/rcferreira232/simple-banking-system-challenge.git)
 2. Instale as dependências: N/A
-3. Execute o código: N/A
+3. Execute o código: python .\desafio.py
 4. Teste as funcionalidades:
    - Deposite R$ 100,00 na conta.
    - Saque R$ 50,00 da conta.
